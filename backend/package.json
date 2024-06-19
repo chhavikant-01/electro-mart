@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for electroMart",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhavikant-01/electroMart.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "backend",
+    "api",
+    "rest"
+  ],
+  "author": "chhavikant mahobia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhavikant-01/electroMart/issues"
+  },
+  "homepage": "https://github.com/chhavikant-01/electroMart#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "supertest": "^7.0.0"
+  }
+}
